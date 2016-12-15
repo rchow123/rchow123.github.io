@@ -1,0 +1,60 @@
+article{
+  
+}
+h1{
+  text-align: center
+}
+
+h1{
+  color:#01aaaf;
+font-family: 'Lobster Two', cursive;;
+}
+
+body{
+ background:#88909b;
+  cursor:url("http://cur.cursors-4u.net/holidays/images5/hol445.gif"),auto;
+}
+
+img{
+  height: 125px;
+    border-radius: 25px;
+border: solid pink 5px;
+}
+p{
+  border: 5px solid black
+}
+
+p{
+  border-style:dotted solid;
+}
+h6{
+  font-family: 'Kaushan Script', cursive;
+}
+header {
+ text-align: center;
+ background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStVd4Y3rFXSPiFpbU2DYx1UJQ6EUNXXPQ0Ac7gTk5keb1Ww2emtA");
+ background-size: cover;
+ }
+ul{
+ padding: 10px;
+}
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ }
+h3{
+  text-align: center;
+}
+
+img:hover{
+  height: 250px;
+}
+
+a:hover{
+  font-size: 169%;
+}
+
+
+img:hover{
+  transform: rotate(361deg);
+}
